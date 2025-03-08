@@ -1,0 +1,112 @@
+.background{
+	background-color:#000000;
+	height:25px;
+	
+}
+.navbar-brand {
+	margin-left:17%;
+	margin-right:17%;
+}
+
+.pics1 {
+	height:16px;
+	opacity: 0.5;
+}
+.bg {
+	background: rgba(0,0,0,0.6) url(images/bg.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-blend-mode:darken ;
+	height:400px;
+	background-position:center;
+	
+}
+.para{
+	margin-top:150px;
+}
+.underline {
+	text-decoration:none;
+	
+    border-bottom-style: solid;
+	border-bottom-color: #3598db;
+}
+.button {
+	border-radius:4px;
+	padding:7px 20px 7px 20px ;
+	font-size:9px;
+	border: none;
+	color:white;
+	background-color: #2196F3;
+}
+.pics2 {
+	height:60px;
+}
+.para2{
+	font-size:11px;
+}
+.para3 {
+	font-size:12px;
+	margin-top:0px;
+}
+.img4 {
+	height:320px;
+}
+.servicesbg{
+	
+	background-color:#f7fbfe;
+}
+
+.span1 {
+	height:2px;
+	width:34px;
+	margin-top:10px;
+	margin-left:46%;	
+}
+.span2 {
+	height:3px;
+	width:34px;
+	margin-top:9px;
+}.span3 {
+	height:2px;
+	width:34px;
+	margin-top:10px;
+}
+.portfolio {
+	margin-left:10%;
+}
+.portfolio-row {
+	padding-right: calc(var(--bs-gutter-x) * );
+	padding-left: calc(var(--bs-gutter-x) * );
+}
+.pills-size {
+    padding-top: 5px ;
+    padding-bottom: 5px;
+	padding-left:12px;
+	padding-right:12px;
+	margin:5px 10px 5px 15px;
+	font-size:13px;
+	color:black;
+	
+}
+.portpara {
+	font-size:13px;
+}
+.testimonialbg{
+	background:#e9f6ff;
+}
+.commaimg {
+	padding-right:225px;
+}
+.commaimg2 {
+	padding-left:200px;
+	padding-right:25px;
+}
+.owl-carousel .active span { 
+    background: rgb(37, 150, 190) !important;  
+}
+.details {
+	font-size:12px;
+}
+.details2 {
+	font-size:11px;
+}
